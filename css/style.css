@@ -1,0 +1,56 @@
+spam{
+    color: blue;
+}
+
+a{
+    padding: 20px;
+    margin: 40px;
+}
+
+h1{
+    background-color: cyan;
+    font-size: x-large;
+}
+
+.style{
+     width: 10%;
+     float: left;
+     margin-right: 20px;
+}
+
+.move{
+    float: right;
+}
+
+.yemi{
+    width: 10%;
+    float: right;
+    margin: 20px;
+}
+
+h6{
+    float: right;
+    margin: 20px;
+}
+
+.top{
+    background-color: dimgray;
+    color: red;
+    border-radius: 40px;
+}
+
+.right{
+    float: right;
+}
+
+.buhari{
+    width: 10%;
+    float: right;
+    margin: 20px;
+}
+
+.colorblue{
+    background-color: lightblue;
+}
+
+
